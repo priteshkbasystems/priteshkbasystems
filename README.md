@@ -1,11 +1,11 @@
 # Hi 👋, I'm Pritesh Akhani
-### CEO @ KBA Systems | Building Scalable Web & Mobile Products Globally
+### CTO @ KBA Systems | Building Scalable Web & Mobile Products Globally
 
 ---
 
 🚀 About Me
 
-I’m the Founder & CEO of KBA Systems, a global software development company helping startups, SMEs, and enterprises build scalable, high-performance digital products.
+I’m the CO-Founder & CTO of KBA Systems, a global software development company helping startups, SMEs, and enterprises build scalable, high-performance digital products.
 
 With 14+ years of experience, I’ve worked with clients across USA, UK, Canada, and Europe, delivering solutions that drive real business growth.
 
@@ -85,7 +85,7 @@ We focus on ROI-driven development, helping businesses grow faster with technolo
 📍 India | Canada | USA
 
 👉 Book a call & get free consultation
-
+Mobile : +91 9909469637
 ---
 
 ⚡ Fun Fact
